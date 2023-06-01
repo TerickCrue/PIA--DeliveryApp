@@ -68,4 +68,5 @@ testem.log
 Thumbs.db
 
 /environments/environment.prod
-
+/android
+/www
